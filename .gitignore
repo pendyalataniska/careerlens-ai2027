@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.env
+.pytest_cache/
+.mypy_cache/
+
+# Node
+node_modules/
+dist/
+.env.local
+
+# ML
+*.pkl
+*.joblib
+*.pt
+*.onnx
+models/
+
+# Uploads
+uploads/
+media/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db

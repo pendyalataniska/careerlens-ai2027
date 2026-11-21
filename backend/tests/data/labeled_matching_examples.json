@@ -1,0 +1,106 @@
+{
+  "name": "careerlens-curated-matching-v1",
+  "type": "synthetic_curated_labels",
+  "queries": [
+    {
+      "id": "backend-engineer",
+      "candidate": {
+        "skills": ["Python", "FastAPI", "PostgreSQL", "Docker"],
+        "experience_skills": ["Python", "FastAPI", "PostgreSQL"],
+        "experience_years": 4,
+        "work_evidence_count": 2,
+        "education": ["Bachelor of Science in Computer Science"]
+      },
+      "jobs": [
+        {
+          "title": "Python Backend Engineer",
+          "required_skills": ["Python", "FastAPI", "PostgreSQL"],
+          "description_skills": ["Python", "FastAPI", "PostgreSQL", "Docker"],
+          "minimum_experience_years": 3,
+          "required_education": "Bachelor of Science",
+          "relevance": 1
+        },
+        {
+          "title": "Frontend React Engineer",
+          "required_skills": ["React", "TypeScript", "CSS"],
+          "description_skills": ["React", "TypeScript", "CSS"],
+          "minimum_experience_years": 3,
+          "relevance": 0
+        },
+        {
+          "title": "Data Analyst",
+          "required_skills": ["SQL", "Pandas", "Data Analysis"],
+          "description_skills": ["SQL", "Pandas", "Data Analysis"],
+          "minimum_experience_years": 2,
+          "relevance": 0
+        }
+      ]
+    },
+    {
+      "id": "frontend-engineer",
+      "candidate": {
+        "skills": ["React", "TypeScript", "Tailwind CSS", "JavaScript"],
+        "experience_skills": ["React", "TypeScript", "JavaScript"],
+        "experience_years": 3,
+        "work_evidence_count": 2,
+        "education": ["Bachelor of Arts in Digital Media"]
+      },
+      "jobs": [
+        {
+          "title": "Frontend React Engineer",
+          "required_skills": ["React", "TypeScript", "CSS"],
+          "description_skills": ["React", "TypeScript", "CSS", "JavaScript"],
+          "minimum_experience_years": 2,
+          "relevance": 1
+        },
+        {
+          "title": "Python Backend Engineer",
+          "required_skills": ["Python", "FastAPI", "PostgreSQL"],
+          "description_skills": ["Python", "FastAPI", "PostgreSQL", "Docker"],
+          "minimum_experience_years": 3,
+          "relevance": 0
+        },
+        {
+          "title": "Product Designer",
+          "required_skills": ["Figma", "Product Management"],
+          "description_skills": ["Figma", "Product Management", "Communication"],
+          "relevance": 0
+        }
+      ]
+    },
+    {
+      "id": "machine-learning-engineer",
+      "candidate": {
+        "skills": ["Python", "Machine Learning", "PyTorch", "Scikit-learn"],
+        "experience_skills": ["Python", "Machine Learning", "PyTorch"],
+        "experience_years": 5,
+        "work_evidence_count": 3,
+        "education": ["Master of Science in Data Science"]
+      },
+      "jobs": [
+        {
+          "title": "Machine Learning Engineer",
+          "required_skills": ["Python", "Machine Learning", "PyTorch"],
+          "description_skills": ["Python", "Machine Learning", "PyTorch", "Scikit-learn"],
+          "minimum_experience_years": 3,
+          "required_education": "Master of Science",
+          "relevance": 1
+        },
+        {
+          "title": "Data Analyst",
+          "required_skills": ["SQL", "Pandas", "Data Analysis"],
+          "description_skills": ["SQL", "Pandas", "Data Analysis", "Data Visualization"],
+          "minimum_experience_years": 2,
+          "relevance": 0
+        },
+        {
+          "title": "Frontend React Engineer",
+          "required_skills": ["React", "TypeScript", "CSS"],
+          "description_skills": ["React", "TypeScript", "CSS"],
+          "minimum_experience_years": 3,
+          "relevance": 0
+        }
+      ]
+    }
+  ]
+}

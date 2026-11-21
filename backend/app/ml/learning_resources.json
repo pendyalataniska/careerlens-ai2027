@@ -1,0 +1,452 @@
+{
+  "Python": [
+    {
+      "id": "python-official-tutorial",
+      "title": "The Python Tutorial",
+      "provider": "Python Software Foundation",
+      "url": "https://docs.python.org/3/tutorial/",
+      "description": "Official tutorial covering Python syntax, data structures, modules, and exceptions."
+    }
+  ],
+  "JavaScript": [
+    {
+      "id": "javascript-mdn-guide",
+      "title": "JavaScript Guide",
+      "provider": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide",
+      "description": "Reference-led guide to core JavaScript language features."
+    }
+  ],
+  "TypeScript": [
+    {
+      "id": "typescript-handbook",
+      "title": "The TypeScript Handbook",
+      "provider": "Microsoft",
+      "url": "https://www.typescriptlang.org/docs/handbook/intro.html",
+      "description": "Official handbook for TypeScript types, narrowing, and common programming patterns."
+    }
+  ],
+  "Java": [
+    {
+      "id": "java-dev-learning",
+      "title": "Learn Java",
+      "provider": "Oracle",
+      "url": "https://dev.java/learn/",
+      "description": "Official Java learning paths and language tutorials."
+    }
+  ],
+  "C++": [
+    {
+      "id": "cpp-reference-tutorial",
+      "title": "C++ language overview",
+      "provider": "cppreference.com",
+      "url": "https://en.cppreference.com/w/cpp/language",
+      "description": "Language reference covering C++ syntax and core concepts."
+    }
+  ],
+  "C#": [
+    {
+      "id": "csharp-fundamentals",
+      "title": "C# documentation",
+      "provider": "Microsoft Learn",
+      "url": "https://learn.microsoft.com/en-us/dotnet/csharp/",
+      "description": "Official C# tutorials, language reference, and learning paths."
+    }
+  ],
+  "Go": [
+    {
+      "id": "go-tour",
+      "title": "A Tour of Go",
+      "provider": "The Go Authors",
+      "url": "https://go.dev/tour/",
+      "description": "Interactive introduction to Go syntax, methods, interfaces, and concurrency."
+    }
+  ],
+  "Rust": [
+    {
+      "id": "rust-book",
+      "title": "The Rust Programming Language",
+      "provider": "The Rust Project",
+      "url": "https://doc.rust-lang.org/book/",
+      "description": "Official book covering ownership, types, error handling, and concurrency."
+    }
+  ],
+  "SQL": [
+    {
+      "id": "postgres-sql-tutorial",
+      "title": "PostgreSQL Tutorial",
+      "provider": "PostgreSQL Global Development Group",
+      "url": "https://www.postgresql.org/docs/current/tutorial.html",
+      "description": "Official tutorial for relational database concepts and SQL in PostgreSQL."
+    }
+  ],
+  "PostgreSQL": [
+    {
+      "id": "postgres-sql-tutorial",
+      "title": "PostgreSQL Tutorial",
+      "provider": "PostgreSQL Global Development Group",
+      "url": "https://www.postgresql.org/docs/current/tutorial.html",
+      "description": "Official tutorial for relational database concepts and SQL in PostgreSQL."
+    }
+  ],
+  "MySQL": [
+    {
+      "id": "mysql-getting-started",
+      "title": "Getting Started with MySQL",
+      "provider": "Oracle",
+      "url": "https://dev.mysql.com/doc/mysql-getting-started/en/",
+      "description": "Official introduction to installing, connecting to, and using MySQL."
+    }
+  ],
+  "SQLite": [
+    {
+      "id": "sqlite-tutorial",
+      "title": "SQLite Tutorial",
+      "provider": "SQLite",
+      "url": "https://www.sqlite.org/cli.html",
+      "description": "Official guide to working with the SQLite command-line shell."
+    }
+  ],
+  "MongoDB": [
+    {
+      "id": "mongodb-learning-path",
+      "title": "MongoDB learning paths",
+      "provider": "MongoDB University",
+      "url": "https://learn.mongodb.com/",
+      "description": "Official self-paced courses for MongoDB developers and data practitioners."
+    }
+  ],
+  "Redis": [
+    {
+      "id": "redis-getting-started",
+      "title": "Redis documentation",
+      "provider": "Redis",
+      "url": "https://redis.io/docs/latest/develop/get-started/",
+      "description": "Official getting-started material for Redis data structures and development."
+    }
+  ],
+  "React": [
+    {
+      "id": "react-learn",
+      "title": "Learn React",
+      "provider": "React",
+      "url": "https://react.dev/learn",
+      "description": "Official interactive guide to React components, state, and effects."
+    }
+  ],
+  "Angular": [
+    {
+      "id": "angular-tutorial",
+      "title": "Angular tutorials",
+      "provider": "Angular",
+      "url": "https://angular.dev/tutorials",
+      "description": "Official tutorials for building Angular applications."
+    }
+  ],
+  "Vue.js": [
+    {
+      "id": "vue-guide",
+      "title": "Vue Guide",
+      "provider": "Vue.js",
+      "url": "https://vuejs.org/guide/introduction.html",
+      "description": "Official guide to Vue components, reactivity, and application structure."
+    }
+  ],
+  "Node.js": [
+    {
+      "id": "nodejs-learn",
+      "title": "Learn Node.js",
+      "provider": "OpenJS Foundation",
+      "url": "https://nodejs.org/en/learn",
+      "description": "Official learning resources for Node.js development."
+    }
+  ],
+  "FastAPI": [
+    {
+      "id": "fastapi-tutorial",
+      "title": "FastAPI Tutorial",
+      "provider": "FastAPI",
+      "url": "https://fastapi.tiangolo.com/tutorial/",
+      "description": "Official tutorial for APIs, validation, dependencies, and security."
+    }
+  ],
+  "Django": [
+    {
+      "id": "django-tutorial",
+      "title": "Django Tutorial",
+      "provider": "Django Software Foundation",
+      "url": "https://docs.djangoproject.com/en/stable/intro/tutorial01/",
+      "description": "Official tutorial for building a Django application."
+    }
+  ],
+  "Flask": [
+    {
+      "id": "flask-quickstart",
+      "title": "Flask Quickstart",
+      "provider": "Pallets Projects",
+      "url": "https://flask.palletsprojects.com/en/stable/quickstart/",
+      "description": "Official quickstart for routing, requests, templates, and responses."
+    }
+  ],
+  "REST APIs": [
+    {
+      "id": "fastapi-tutorial",
+      "title": "FastAPI Tutorial",
+      "provider": "FastAPI",
+      "url": "https://fastapi.tiangolo.com/tutorial/",
+      "description": "Official tutorial for designing and implementing HTTP APIs."
+    }
+  ],
+  "GraphQL": [
+    {
+      "id": "graphql-learn",
+      "title": "Learn GraphQL",
+      "provider": "GraphQL Foundation",
+      "url": "https://graphql.org/learn/",
+      "description": "Official learning guide to GraphQL schemas, queries, and mutations."
+    }
+  ],
+  "HTML": [
+    {
+      "id": "html-mdn-guide",
+      "title": "HTML learning area",
+      "provider": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/en-US/docs/Learn/HTML",
+      "description": "Structured lessons on semantic HTML and accessible document structure."
+    }
+  ],
+  "CSS": [
+    {
+      "id": "css-mdn-guide",
+      "title": "CSS learning area",
+      "provider": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/en-US/docs/Learn/CSS",
+      "description": "Structured lessons on styling, layout, and responsive design."
+    }
+  ],
+  "Tailwind CSS": [
+    {
+      "id": "tailwind-docs",
+      "title": "Tailwind CSS documentation",
+      "provider": "Tailwind CSS",
+      "url": "https://tailwindcss.com/docs",
+      "description": "Official utility-class reference and setup guides."
+    }
+  ],
+  "Docker": [
+    {
+      "id": "docker-get-started",
+      "title": "Docker Get Started",
+      "provider": "Docker",
+      "url": "https://docs.docker.com/get-started/",
+      "description": "Official guide to containerizing and running applications."
+    }
+  ],
+  "Kubernetes": [
+    {
+      "id": "kubernetes-basics",
+      "title": "Kubernetes Basics",
+      "provider": "The Kubernetes Authors",
+      "url": "https://kubernetes.io/docs/tutorials/kubernetes-basics/",
+      "description": "Interactive tutorials for deploying, scaling, and updating containerized applications."
+    }
+  ],
+  "AWS": [
+    {
+      "id": "aws-skill-builder",
+      "title": "AWS Skill Builder",
+      "provider": "Amazon Web Services",
+      "url": "https://skillbuilder.aws/",
+      "description": "Official digital training and learning plans for AWS services."
+    }
+  ],
+  "Microsoft Azure": [
+    {
+      "id": "azure-fundamentals",
+      "title": "Azure fundamentals learning path",
+      "provider": "Microsoft Learn",
+      "url": "https://learn.microsoft.com/en-us/training/paths/azure-fundamentals-describe-cloud-concepts/",
+      "description": "Official introductory learning path for cloud concepts and Azure."
+    }
+  ],
+  "Google Cloud": [
+    {
+      "id": "google-cloud-training",
+      "title": "Google Cloud training",
+      "provider": "Google Cloud",
+      "url": "https://cloud.google.com/learn/training",
+      "description": "Official training catalog for Google Cloud products and roles."
+    }
+  ],
+  "Git": [
+    {
+      "id": "git-book",
+      "title": "Pro Git",
+      "provider": "Scott Chacon and Ben Straub",
+      "url": "https://git-scm.com/book/en/v2",
+      "description": "Free reference book covering Git fundamentals and collaboration workflows."
+    }
+  ],
+  "GitHub": [
+    {
+      "id": "github-skills",
+      "title": "GitHub Skills",
+      "provider": "GitHub",
+      "url": "https://skills.github.com/",
+      "description": "Hands-on exercises for GitHub workflows and collaboration."
+    }
+  ],
+  "CI/CD": [
+    {
+      "id": "github-actions-learn",
+      "title": "GitHub Actions documentation",
+      "provider": "GitHub",
+      "url": "https://docs.github.com/en/actions",
+      "description": "Official guides to automated build, test, and deployment workflows."
+    }
+  ],
+  "Machine Learning": [
+    {
+      "id": "scikit-learn-user-guide",
+      "title": "Scikit-learn User Guide",
+      "provider": "scikit-learn",
+      "url": "https://scikit-learn.org/stable/user_guide.html",
+      "description": "Practical guide to supervised and unsupervised machine-learning workflows."
+    }
+  ],
+  "Natural Language Processing": [
+    {
+      "id": "spacy-course",
+      "title": "Advanced NLP with spaCy",
+      "provider": "Explosion",
+      "url": "https://course.spacy.io/en/",
+      "description": "Free interactive course covering practical NLP pipelines with spaCy."
+    }
+  ],
+  "PyTorch": [
+    {
+      "id": "pytorch-tutorials",
+      "title": "PyTorch Tutorials",
+      "provider": "PyTorch",
+      "url": "https://pytorch.org/tutorials/",
+      "description": "Official tutorials for tensors, model building, and training workflows."
+    }
+  ],
+  "TensorFlow": [
+    {
+      "id": "tensorflow-learn",
+      "title": "TensorFlow learning resources",
+      "provider": "TensorFlow",
+      "url": "https://www.tensorflow.org/learn",
+      "description": "Official learning materials for TensorFlow and machine learning."
+    }
+  ],
+  "Scikit-learn": [
+    {
+      "id": "scikit-learn-user-guide",
+      "title": "Scikit-learn User Guide",
+      "provider": "scikit-learn",
+      "url": "https://scikit-learn.org/stable/user_guide.html",
+      "description": "Practical guide to model selection, preprocessing, and evaluation."
+    }
+  ],
+  "Pandas": [
+    {
+      "id": "pandas-getting-started",
+      "title": "Getting started tutorials",
+      "provider": "pandas",
+      "url": "https://pandas.pydata.org/docs/getting_started/intro_tutorials/",
+      "description": "Official tutorials for loading, transforming, and analyzing tabular data."
+    }
+  ],
+  "NumPy": [
+    {
+      "id": "numpy-absolute-beginners",
+      "title": "NumPy: the absolute basics for beginners",
+      "provider": "NumPy",
+      "url": "https://numpy.org/doc/stable/user/absolute_beginners.html",
+      "description": "Official introduction to arrays and numerical operations."
+    }
+  ],
+  "Data Analysis": [
+    {
+      "id": "pandas-getting-started",
+      "title": "Getting started tutorials",
+      "provider": "pandas",
+      "url": "https://pandas.pydata.org/docs/getting_started/intro_tutorials/",
+      "description": "Hands-on material for cleaning, transforming, and summarizing data."
+    }
+  ],
+  "Data Visualization": [
+    {
+      "id": "matplotlib-tutorials",
+      "title": "Matplotlib tutorials",
+      "provider": "Matplotlib",
+      "url": "https://matplotlib.org/stable/tutorials/",
+      "description": "Official tutorials for creating and customizing visualizations."
+    }
+  ],
+  "Agile": [
+    {
+      "id": "agile-guide",
+      "title": "Agile Guide",
+      "provider": "Agile Alliance",
+      "url": "https://agilealliance.org/agile101/",
+      "description": "Overview of Agile values, principles, and common practices."
+    }
+  ],
+  "Scrum": [
+    {
+      "id": "scrum-guide",
+      "title": "The Scrum Guide",
+      "provider": "Scrum Guides",
+      "url": "https://scrumguides.org/scrum-guide.html",
+      "description": "The official guide to Scrum roles, events, and artifacts."
+    }
+  ],
+  "Figma": [
+    {
+      "id": "figma-learning",
+      "title": "Figma Learn",
+      "provider": "Figma",
+      "url": "https://help.figma.com/hc/en-us/categories/360002051613-Learn-design",
+      "description": "Official learning resources for interface design and collaboration."
+    }
+  ],
+  "Product Management": [
+    {
+      "id": "product-management-atlassian",
+      "title": "Product management guide",
+      "provider": "Atlassian",
+      "url": "https://www.atlassian.com/agile/product-management",
+      "description": "Guide to product management responsibilities and practices."
+    }
+  ],
+  "Project Management": [
+    {
+      "id": "project-management-pmi",
+      "title": "Project management basics",
+      "provider": "Project Management Institute",
+      "url": "https://www.pmi.org/learning/library/project-management-basics-what-is-pm-8935",
+      "description": "Introductory resource on project management concepts and practices."
+    }
+  ],
+  "Communication": [
+    {
+      "id": "technical-writing-google",
+      "title": "Technical Writing Courses",
+      "provider": "Google Developers",
+      "url": "https://developers.google.com/tech-writing",
+      "description": "Free courses on writing clearly for technical audiences."
+    }
+  ],
+  "Leadership": [
+    {
+      "id": "leadership-openlearn",
+      "title": "Leadership and followership",
+      "provider": "The Open University",
+      "url": "https://www.open.edu/openlearn/money-business/leadership-management/leadership-and-followership/content-section-0",
+      "description": "Open course exploring leadership and team dynamics."
+    }
+  ]
+}
